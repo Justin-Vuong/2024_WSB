@@ -1,0 +1,283 @@
+Removed Pin From Net: NetName=5V Pin=DS2-1
+Removed Pin From Net: NetName=AVDD33 Pin=R5-2
+Removed Pin From Net: NetName=MII_TXD0 Pin=R10-2
+Removed Pin From Net: NetName=MII_RX_D0 Pin=R11-2
+Removed Pin From Net: NetName=MII_TXD1 Pin=R12-2
+Removed Pin From Net: NetName=MII_RX_D1 Pin=R13-2
+Removed Pin From Net: NetName=MII_TXD2 Pin=R14-2
+Removed Pin From Net: NetName=MII_RX_D2 Pin=R15-2
+Removed Pin From Net: NetName=MII_TXD3 Pin=R16-2
+Removed Pin From Net: NetName=MII_RX_D3 Pin=R17-2
+Removed Pin From Net: NetName=MII_RX_DV Pin=R23-2
+Removed Pin From Net: NetName=MII_RX_CLK Pin=R24-2
+Removed Pin From Net: NetName=MII_COL Pin=R25-2
+Removed Pin From Net: NetName=RX_P Pin=R29-1
+Removed Pin From Net: NetName=AVDD33 Pin=R29-2
+Removed Pin From Net: NetName=TX_P Pin=R30-1
+Removed Pin From Net: NetName=AVDD33 Pin=R30-2
+Removed Pin From Net: NetName=RX_N Pin=R32-1
+Removed Pin From Net: NetName=AVDD33 Pin=R32-2
+Removed Pin From Net: NetName=TX_N Pin=R33-1
+Removed Pin From Net: NetName=AVDD33 Pin=R33-2
+Removed Pin From Net: NetName=LED_SPEED/AN1 Pin=R36-1
+Removed Pin From Net: NetName=NetDS4_2 Pin=R36-2
+Removed Pin From Net: NetName=NetR6_1 Pin=SW2-1
+Removed Pin From Net: NetName=NetR16_1 Pin=U2-1
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-5
+Removed Pin From Net: NetName=NetR14_1 Pin=U2-17
+Removed Pin From Net: NetName=NetR25_1 Pin=U2-26
+Removed Pin From Net: NetName=NetR23_1 Pin=U2-32
+Removed Pin From Net: NetName=NetR11_1 Pin=U2-33
+Removed Pin From Net: NetName=NetR13_1 Pin=U2-34
+Removed Pin From Net: NetName=NetR15_1 Pin=U2-35
+Removed Pin From Net: NetName=NetR17_1 Pin=U2-36
+Removed Pin From Net: NetName=NetR10_1 Pin=U2-51
+Removed Pin From Net: NetName=NetR12_1 Pin=U2-52
+Change Component Footprint: Designator=R10 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R11 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R12 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R13 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R14 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R15 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R16 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R18 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R19 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R22 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R25 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R29 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R30 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R32 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R33 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R23 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R36 Old Footprint=RESC0603X28X15ML05T05 New Footprint=FP-CRCW0603-e3-IPC_C
+Change Component Footprint: Designator=R2 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X30NL15T15
+Change Component Comment : Designator=R10 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R11 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R12 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R13 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R14 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R15 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R16 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R17 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R18 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R19 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R22 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R25 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R29 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R30 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R32 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R33 Old Comment=CRCW060350R0FKEA New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R23 Old Comment=CRCW060350R0FKEA New Comment=RC0603JR-0710KL
+Change Component Comment : Designator=R36 Old Comment=CRCW0201143RFNED New Comment=CRCW060348R7FKEA
+Change Component Comment : Designator=R2 Old Comment=CRCW0201143RFNED New Comment=RK73H2BTTD4990F
+Change Component Comment : Designator=R5 Old Comment=RC0603JR-0710KL New Comment=ERJ-3EKF1400V
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=12V NewDesignator=TP1
+Change Component Designator: OldDesignator=GND NewDesignator=TP4
+Change Component Designator: OldDesignator=MISO NewDesignator=TP18
+Change Component Designator: OldDesignator=MOSI NewDesignator=TP17
+Change Component Designator: OldDesignator=SCK NewDesignator=TP16
+Change Component Designator: OldDesignator=SCL NewDesignator=TP10
+Change Component Designator: OldDesignator=SDA NewDesignator=TP11
+Change Component Designator: OldDesignator=UART_RX NewDesignator=TP14
+Change Component Designator: OldDesignator=UART_TX NewDesignator=TP13
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5A8B3589-0DF8-4684-97B2-902166EF1A21 New ItemGUID=1BAAED07-127C-4D0B-9240-99E1B065B8E6 Old RevisionGUID=650D4996-20A2-4DC9-A806-0C6746EF8146 New RevisionGUID=6B5AD040-7AE3-4DC9-80E1-F03E461A4FBE
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CC689C86-31BC-452C-BBE9-9612162CC4C1 New ItemGUID=5A8B3589-0DF8-4684-97B2-902166EF1A21 Old RevisionGUID=99BE0F10-A622-452F-87CC-259800687EB9 New RevisionGUID=650D4996-20A2-4DC9-A806-0C6746EF8146
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5B409F8B-716D-4DA9-A994-DB15ABE6E13B New ItemGUID=CC689C86-31BC-452C-BBE9-9612162CC4C1 Old RevisionGUID=F56FC474-0F9C-48B0-8748-E6C9E1F248A1 New RevisionGUID=99BE0F10-A622-452F-87CC-259800687EB9
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC0603X28X15ML05T05"; UniqueID = "\EFCEKFJM\SRKAVNSZ" ("\EFCEKFJM\SRKAVNSZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RK73H2BTTD4990F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\EFCEKFJM\AOKTICUM" ("\EFCEKFJM\AOKTICUM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1400V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "FP-CRCW0603-e3-MFG"; UniqueID = "\MWEDDMCY\CPNVJOOL" ("\MWEDDMCY\CPNVJOOL")
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.farnell.com/datasheets/443971.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 4, 04/2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=DS5(AVAG-HSMX-C170_V)
+Add component (AddParameter): Name = "Bulb Size"; Value = "1.25mmx1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29280/180495-da-01-en-chip-led-hsmg-c170-gelb-gruen-29280971.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Oct-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "572nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength Typ"; Value = "572nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "External Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "External Length / Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "External Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current If"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current If Max"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage VF Max"; Value = "2.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Mounting"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Light Area Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "15mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity Min"; Value = "4mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity Typ"; Value = "15mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL2A-4weeks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-30degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-30degCto+85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opto Case Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opto Mounting Orientation"; Value = "Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm, Height 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "HSMX-C170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "570nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV Max"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature Max"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature Min"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(16-Jun-2014)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "170deg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Vf Typ"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength Typ"; Value = "570nm"; VariantName = "[No Variations]"
+Added Component: Designator=R71(FP-CRCW0603-e3-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "48.7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.033inch"; VariantName = "[No Variations]"
+Added Component: Designator=R72(RESC1608X55X30NL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1400V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(FP-KVU0003A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.03mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.17mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "5.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "4.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "80dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "4.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.011598oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=DS2-1
+Added Pin To Net: NetName=5V Pin=DS5-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=MII_RX_D0 Pin=R10-2
+Added Pin To Net: NetName=MII_TXD0 Pin=R11-2
+Added Pin To Net: NetName=MII_RX_D1 Pin=R12-2
+Added Pin To Net: NetName=MII_TXD1 Pin=R13-2
+Added Pin To Net: NetName=MII_RX_D2 Pin=R14-2
+Added Pin To Net: NetName=MII_TXD2 Pin=R15-2
+Added Pin To Net: NetName=MII_RX_D3 Pin=R16-2
+Added Pin To Net: NetName=MII_TXD3 Pin=R17-2
+Added Pin To Net: NetName=AVDD33 Pin=R23-2
+Added Pin To Net: NetName=MII_RX_DV Pin=R25-2
+Added Pin To Net: NetName=MII_RX_CLK Pin=R29-2
+Added Pin To Net: NetName=MII_COL Pin=R30-2
+Added Pin To Net: NetName=AVDD33 Pin=R32-1
+Added Pin To Net: NetName=RX_P Pin=R32-2
+Added Pin To Net: NetName=AVDD33 Pin=R33-1
+Added Pin To Net: NetName=TX_P Pin=R33-2
+Added Pin To Net: NetName=RX_N Pin=R36-1
+Added Pin To Net: NetName=AVDD33 Pin=R36-2
+Added Pin To Net: NetName=TX_N Pin=R71-1
+Added Pin To Net: NetName=AVDD33 Pin=R71-2
+Added Pin To Net: NetName=LED_SPEED/AN1 Pin=R72-1
+Added Pin To Net: NetName=NetDS4_2 Pin=R72-2
+Added Pin To Net: NetName=NetR23_1 Pin=SW2-1
+Added Pin To Net: NetName=NetR6_1 Pin=SW3-1
+Added Pin To Net: NetName=NetR17_1 Pin=U2-1
+Added Pin To Net: NetName=NetR23_1 Pin=U2-3
+Added Pin To Net: NetName=NetR6_1 Pin=U2-4
+Added Pin To Net: NetName=NetR15_1 Pin=U2-17
+Added Pin To Net: NetName=NetR25_1 Pin=U2-32
+Added Pin To Net: NetName=NetR10_1 Pin=U2-33
+Added Pin To Net: NetName=NetR12_1 Pin=U2-34
+Added Pin To Net: NetName=NetR14_1 Pin=U2-35
+Added Pin To Net: NetName=NetR16_1 Pin=U2-36
+Added Pin To Net: NetName=NetR11_1 Pin=U2-51
+Added Pin To Net: NetName=NetR13_1 Pin=U2-52
+Added Pin To Net: NetName=12V Pin=U5-1
+Added Pin To Net: NetName=5V Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetDS5_2 Pin=DS5-2
+Added Pin To Net: NetName=NetDS5_2 Pin=R5-2
+Added Net: Name=NetDS5_2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U2-24
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=U2-26
+Added Net: Name=NetR30_1
+Added Member To Class: ClassName=U_POWER Member=Component DS5 HSMG-C170
+Added Member To Class: ClassName=U_POWER Member=Component R5 ERJ-3EKF1400V
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component R6 RC0603JR-0710KL
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component R23 RC0603JR-0710KL
+Added Member To Class: ClassName=U_Ethernet Member=Component R71 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R72 ERJ-3EKF1400V
+Added Member To Class: ClassName=U_MainConnector Member=Component TP10 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP11 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP16 5012
+Added Member To Class: ClassName=U_POWER Member=Component U5 UA78M05CKVURG3
+Added Room: Name=U_Ethernet
+Added Room: Name=U_MainConnector
+Added Room: Name=U_MicroSD
+Added Room: Name=U_Oscillator
+Added Room: Name=U_POWER
+Added Room: Name=U_VehicleCAN

@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=U_POWER Member=DS4
+Removed Member From Class: ClassName=U_POWER Member=R5
+Removed Member From Class: ClassName=U_Programming Member=R10
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=R10
+Removed Member From Class: ClassName=U_Ethernet Member=R44
+Removed Member From Class: ClassName=U_MainConnector Member=R53
+Removed Member From Class: ClassName=U_MainConnector Member=R55
+Removed Member From Class: ClassName=U_MainConnector Member=R56
+Removed Member From Class: ClassName=U_MainConnector Member=R57
+Removed Member From Class: ClassName=U_SensorInput1 Member=R69A
+Removed Member From Class: ClassName=U_SensorInput3 Member=R69C
+Removed Member From Class: ClassName=U_SensorInput1 Member=R70A
+Removed Member From Class: ClassName=U_SensorInput2 Member=R70B
+Removed Member From Class: ClassName=U_SensorInput3 Member=R70C
+Removed Member From Class: ClassName=U_SensorInput1 Member=R71A
+Removed Member From Class: ClassName=U_POWER Member=U5
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=U5
+Removed Member From Class: ClassName=U_VehicleCAN Member=U5
+Added Member To Class: ClassName=U_POWER Member=Component C5 CC0805KKX7R7BB334
+Added Member To Class: ClassName=U_POWER Member=Component DS1 HSMG-C170
+Added Member To Class: ClassName=U_POWER Member=Component DS3 HSMG-C170
+Added Member To Class: ClassName=U_POWER Member=Component R2 RP73PF1J56R2BTDF
+Added Member To Class: ClassName=U_POWER Member=Component R3 ERJ-3EKF1400V
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component R4 CRCW12062K00JNEA
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component R7 RC0603JR-0710KL
+Added Member To Class: ClassName=U_Programming Member=Component R9 RC0603JR-0710KL
+Added Member To Class: ClassName=U_Ethernet Member=Component R11 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R12 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R13 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R15 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R17 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R19 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R21 RT1206DRE07100KL
+Added Member To Class: ClassName=U_Ethernet Member=Component R24 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R26 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R27 RC0603FR-072K2L
+Added Member To Class: ClassName=U_Ethernet Member=Component R29 CRCW06034K87FKEAHP
+Added Member To Class: ClassName=U_Ethernet Member=Component R31 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R33 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R34 CRCW060348R7FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R35 CRCW0603750RJNEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R37 ERJ-3EKF1400V
+Added Member To Class: ClassName=U_MainConnector Member=Component R39 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R40 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R41 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R42 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R43 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R45 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R46 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R47 RC0805JR-100RL
+Added Member To Class: ClassName=U_MicroSD Member=Component R54 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R61B (R61) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R62A (R62) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R62C (R62) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R63A (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R63B (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R64A (R64) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R64C (R64) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R65A (R65) ERJ-PB6B3002V
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R65B (R65) ERJ-PB6B3002V
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R65C (R65) ERJ-PB6B3002V
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R66A (R66) CR0603-JW-164ELF
+Added Member To Class: ClassName=U_MainConnector Member=Component TP12 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP15 5012
+Added Member To Class: ClassName=U_POWER Member=Component U2 UA78M05CKVURG3
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component U3 STM32F417VGT6TR
+Added Member To Class: ClassName=U_VehicleCAN Member=Component U4 SN65HVD234D
+Added Room: Name=U_Ethernet
+Added Room: Name=U_MainConnector
+Added Room: Name=U_MicroSD
+Added Room: Name=U_Oscillator
+Added Room: Name=U_POWER
+Added Room: Name=U_VehicleCAN

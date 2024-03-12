@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=TP5
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=TP6
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=TP7
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=TP8
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=TP9
+Added Room: Name=U_Ethernet
+Added Room: Name=U_MainConnector
+Added Room: Name=U_MicroSD
+Added Room: Name=U_Oscillator
+Added Room: Name=U_POWER
+Added Room: Name=U_Programming
+Added Room: Name=U_STM32F417VGT6TR
+Added Room: Name=U_VehicleCAN
