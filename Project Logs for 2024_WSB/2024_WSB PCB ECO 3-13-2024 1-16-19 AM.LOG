@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Front NewDesignator=SW3
+Change Component Designator: OldDesignator=Left NewDesignator=SW2
+Change Component Designator: OldDesignator=UART_RX NewDesignator=TP13
+Change Component Designator: OldDesignator=UART_TX NewDesignator=TP12
+Added Pin To Net: NetName=GND Pin=R67B-2
+Change Net Name : Old Net Name=AVDD33 New Net Name=3V3
+Added Member To Class: ClassName=U_MainConnector Member=Component R47 RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R67B (R67) RC0805JR-100RL
