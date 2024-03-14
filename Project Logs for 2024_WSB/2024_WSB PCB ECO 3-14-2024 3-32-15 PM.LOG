@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=12V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=CAN_CONN_H Pin=J3-3
+Removed Pin From Net: NetName=CAN_CONN_L Pin=J3-4
+Removed Pin From Net: NetName=I2C_SCL Pin=J3-5
+Removed Pin From Net: NetName=I2C_SDA Pin=J3-6
+Removed Pin From Net: NetName=NetC39A_1 Pin=J3-7
+Removed Pin From Net: NetName=GND Pin=J3-8
+Removed Pin From Net: NetName=NetC39B_1 Pin=J3-11
+Removed Pin From Net: NetName=GND Pin=J3-12
+Removed Pin From Net: NetName=SPI_SCK Pin=J3-13
+Removed Pin From Net: NetName=SPI_MOSI Pin=J3-14
+Removed Pin From Net: NetName=SPI_MISO Pin=J3-15
+Removed Pin From Net: NetName=NetC39F_1 Pin=J3-17
+Removed Pin From Net: NetName=NetC39G_1 Pin=J3-24
+Removed Pin From Net: NetName=SENSOR1_IN Pin=J3-27
+Removed Pin From Net: NetName=NetC39C_1 Pin=J3-28
+Removed Pin From Net: NetName=SENSOR2_IN Pin=J3-30
+Removed Pin From Net: NetName=NetC39D_1 Pin=J3-31
+Removed Pin From Net: NetName=SENSOR3_IN Pin=J3-33
+Removed Pin From Net: NetName=NetC39E_1 Pin=J3-34
+Removed Pin From Net: NetName=GND Pin=J3-35
+Removed Pin From Net: NetName=SPI_SCK Pin=R38-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=R39-1
+Removed Pin From Net: NetName=SPI_MISO Pin=R40-1
+Removed Pin From Net: NetName=USART_TX Pin=R42-1
+Removed Pin From Net: NetName=USART_RX Pin=R43-1
+Removed Pin From Net: NetName=NetJ3_26 Pin=R43-2
+Removed Pin From Net: NetName=I2C_SCL Pin=R44-2
+Removed Pin From Net: NetName=I2C_SDA Pin=R45-2
+Removed Member From Class: ClassName=SensorPower Member=U_I2CSensorPower1
+Removed Member From Class: ClassName=SensorPower Member=U_SensorPower1
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP8
+Added Pin To Net: NetName=NetC39G_1 Pin=J3-1
+Added Pin To Net: NetName=SPI_MOSI Pin=J3-4
+Added Pin To Net: NetName=SPI_SCK Pin=J3-5
+Added Pin To Net: NetName=CAN_CONN_H Pin=J3-8
+Added Pin To Net: NetName=CAN_CONN_L Pin=J3-9
+Added Pin To Net: NetName=SENSOR3_IN Pin=J3-10
+Added Pin To Net: NetName=SENSOR1_IN Pin=J3-11
+Added Pin To Net: NetName=SENSOR2_IN Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=SPI_MISO Pin=J3-16
+Added Pin To Net: NetName=I2C_SCL Pin=J3-19
+Added Pin To Net: NetName=I2C_SDA Pin=J3-20
+Added Pin To Net: NetName=GND Pin=J3-21
+Added Pin To Net: NetName=GND Pin=J3-22
+Added Pin To Net: NetName=12V Pin=J3-24
+Added Pin To Net: NetName=GND Pin=J3-25
+Added Pin To Net: NetName=NetC39F_1 Pin=J3-28
+Added Pin To Net: NetName=NetC39C_1 Pin=J3-30
+Added Pin To Net: NetName=NetC39B_1 Pin=J3-31
+Added Pin To Net: NetName=NetC39A_1 Pin=J3-34
+Added Pin To Net: NetName=NetC39D_1 Pin=J3-35
+Added Pin To Net: NetName=SPI_MOSI Pin=R38-2
+Added Pin To Net: NetName=SPI_SCK Pin=R39-1
+Added Pin To Net: NetName=I2C_SCL Pin=R40-2
+Added Pin To Net: NetName=I2C_SDA Pin=R41-2
+Added Pin To Net: NetName=USART_RX Pin=R42-1
+Added Pin To Net: NetName=NetJ3_26 Pin=R42-2
+Added Pin To Net: NetName=USART_TX Pin=R43-1
+Added Pin To Net: NetName=SPI_MISO Pin=R44-1
+Change Net Name : Old Net Name=NetC39A_1 New Net Name=SENSOR1_PWR
+Change Net Name : Old Net Name=NetC39B_1 New Net Name=I2C1_PWR
+Change Net Name : Old Net Name=NetC39C_1 New Net Name=I2C2_PWR
+Change Net Name : Old Net Name=NetC39D_1 New Net Name=SENSOR2_PWR
+Change Net Name : Old Net Name=NetC39E_1 New Net Name=SENSOR3_PWR
+Change Net Name : Old Net Name=NetC39F_1 New Net Name=SPI1_PWR
+Change Net Name : Old Net Name=NetC39G_1 New Net Name=SPI2_PWR
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R38-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R39-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=R40-1
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Pin To Net: NetName=NetJ3_7 Pin=R41-1
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_14 Pin=J3-14
+Added Pin To Net: NetName=NetJ3_14 Pin=R44-2
+Added Net: Name=NetJ3_14
+Added Pin To Net: NetName=NetJ3_15 Pin=J3-15
+Added Pin To Net: NetName=NetJ3_15 Pin=R45-2
+Added Net: Name=NetJ3_15
+Added Pin To Net: NetName=NetJ3_17 Pin=J3-17
+Added Pin To Net: NetName=NetJ3_17 Pin=R46-1
+Added Net: Name=NetJ3_17
+Added Pin To Net: NetName=NetJ3_27 Pin=J3-27
+Added Pin To Net: NetName=NetJ3_27 Pin=R43-2
+Added Net: Name=NetJ3_27
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin=U3-93
+Added Net: Name=NetR45_1
+Added Class: Name=U_I2CSensorPower11
+Added Class: Name=U_I2CSensorPower12
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component C39C (C39) C0603X104K5RACTU
+Added Member To Class: ClassName=U_SensorPower2 Member=Component C39D (C39) C0603X104K5RACTU
+Added Member To Class: ClassName=U_SensorPower3 Member=Component C39E (C39) C0603X104K5RACTU
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component C39G (C39) C0603X104K5RACTU
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component C40C (C40) CL10A105KA8NNNC
+Added Member To Class: ClassName=U_SensorPower2 Member=Component C40D (C40) CL10A105KA8NNNC
+Added Member To Class: ClassName=U_SensorPower3 Member=Component C40E (C40) CL10A105KA8NNNC
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component C40G (C40) CL10A105KA8NNNC
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R61A (R61) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R61C (R61) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R62B (R62) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R63A (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R63B (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R63C (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R69C (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R69D (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R69E (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R69G (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R70C (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R70D (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R70E (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R70G (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R71C (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R71D (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R71E (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R71G (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component TP10 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP11 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP14 5012
+Added Member To Class: ClassName=SensorPower Member=U_I2CSensorPower1 (SensorPower.SchDoc)
+Added Member To Class: ClassName=SensorPower Member=U_I2CSensorPower1 (SensorPower.SchDoc)
+Added Member To Class: ClassName=SensorPower Member=U_SensorPower2 (SensorPower.SchDoc)
