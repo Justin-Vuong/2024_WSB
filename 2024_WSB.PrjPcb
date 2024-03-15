@@ -292,7 +292,7 @@ UniqueID=16048B38-83E4-4787-B9B4-2FF15A0FD0B2
 Description=2024_WSB
 AllowFabrication=0
 ParameterCount=0
-VariationCount=46
+VariationCount=49
 Variation1=Designator=R7|UniqueId=\MWEDDMCY\ZXQNUFUB|Kind=0|AlternatePart= 
 Variation2=Designator=R10|UniqueId=\BRRVTHNW\BZFAVGYB|Kind=0|AlternatePart= 
 Variation3=Designator=R13|UniqueId=\BRRVTHNW\OVUCXNPA|Kind=0|AlternatePart= 
@@ -339,6 +339,9 @@ Variation43=Designator=R69F|UniqueId=\DSEOIMTC\ZAEABATH\ITSMLYCE|Kind=1|Alternat
 Variation44=Designator=R70F|UniqueId=\DSEOIMTC\ZAEABATH\QVPIBPWQ|Kind=1|AlternatePart= 
 Variation45=Designator=R71G|UniqueId=\DSEOIMTC\QNWJWZLW\AIQCNRDA|Kind=1|AlternatePart= 
 Variation46=Designator=R69G|UniqueId=\DSEOIMTC\QNWJWZLW\ITSMLYCE|Kind=1|AlternatePart= 
+Variation47=Designator=R66A|UniqueId=\DSEOIMTC\CHUFEXEV\IIWAXDLV|Kind=1|AlternatePart= 
+Variation48=Designator=R66B|UniqueId=\DSEOIMTC\QWOAGLDM\IIWAXDLV|Kind=1|AlternatePart= 
+Variation49=Designator=R65C|UniqueId=\DSEOIMTC\HZNLQAOS\ZITPKCPQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
