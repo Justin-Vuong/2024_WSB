@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=U_SensorPower1 Member=C39B
+Removed Member From Class: ClassName=U_I2CSensorPower2 Member=C40A
+Removed Member From Class: ClassName=U_I2CSensorPower2 Member=R69A
+Removed Member From Class: ClassName=U_I2CSensorPower2 Member=R70A
+Removed Member From Class: ClassName=U_I2CSensorPower2 Member=R71A
+Change Component Designator: OldDesignator=C39A NewDesignator=C39C
+Change Component Designator: OldDesignator=C39B NewDesignator=C39A
+Change Component Designator: OldDesignator=C39C NewDesignator=C39B
+Change Component Designator: OldDesignator=C40A NewDesignator=C40C
+Change Component Designator: OldDesignator=C40B NewDesignator=C40A
+Change Component Designator: OldDesignator=C40C NewDesignator=C40B
+Change Component Designator: OldDesignator=R69A NewDesignator=R69C
+Change Component Designator: OldDesignator=R69B NewDesignator=R69A
+Change Component Designator: OldDesignator=R69C NewDesignator=R69B
+Change Component Designator: OldDesignator=R70A NewDesignator=R70C
+Change Component Designator: OldDesignator=R70B NewDesignator=R70A
+Change Component Designator: OldDesignator=R70C NewDesignator=R70B
+Change Component Designator: OldDesignator=R71A NewDesignator=R71C
+Change Component Designator: OldDesignator=R71B NewDesignator=R71A
+Change Component Designator: OldDesignator=R71C NewDesignator=R71B
+Added Pin To Net: NetName=SENSOR3_PWR Pin=J3-33
+Added Member To Class: ClassName=U_SensorPower1 Member=Component C39C (C39) C0603X104K5RACTU
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component C40B (C40) CL10A105KA8NNNC
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R69B (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R70B (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R71B (R71) RC0805JR-100RL

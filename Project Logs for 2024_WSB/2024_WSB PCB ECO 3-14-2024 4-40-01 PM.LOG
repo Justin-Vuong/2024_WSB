@@ -1,0 +1,617 @@
+Removed Pin From Net: NetName=12V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=CAN_CONN_H Pin=J3-3
+Removed Pin From Net: NetName=CAN_CONN_L Pin=J3-4
+Removed Pin From Net: NetName=I2C_SCL Pin=J3-5
+Removed Pin From Net: NetName=I2C_SDA Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-8
+Removed Pin From Net: NetName=GND Pin=J3-12
+Removed Pin From Net: NetName=SPI_SCK Pin=J3-13
+Removed Pin From Net: NetName=SPI_MOSI Pin=J3-14
+Removed Pin From Net: NetName=SPI_MISO Pin=J3-15
+Removed Pin From Net: NetName=NetC39F_1 Pin=J3-17
+Removed Pin From Net: NetName=NetC39G_1 Pin=J3-24
+Removed Pin From Net: NetName=SENSOR1_IN Pin=J3-27
+Removed Pin From Net: NetName=SENSOR2_IN Pin=J3-30
+Removed Pin From Net: NetName=NetC39D_1 Pin=J3-31
+Removed Pin From Net: NetName=SENSOR3_IN Pin=J3-33
+Removed Pin From Net: NetName=NetC39E_1 Pin=J3-34
+Removed Pin From Net: NetName=GND Pin=J3-35
+Removed Pin From Net: NetName=SPI_SCK Pin=R38-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=R39-1
+Removed Pin From Net: NetName=SPI_MISO Pin=R40-1
+Removed Pin From Net: NetName=USART_TX Pin=R42-1
+Removed Pin From Net: NetName=USART_RX Pin=R43-1
+Removed Pin From Net: NetName=NetJ3_26 Pin=R43-2
+Removed Pin From Net: NetName=I2C_SCL Pin=R44-2
+Removed Pin From Net: NetName=I2C_SDA Pin=R45-2
+Removed Pin From Net: NetName=NetR46_2 Pin=R46-2
+Removed Pin From Net: NetName=NetR47_1 Pin=R47-1
+Removed Pin From Net: NetName=NetD5A_1 Pin=R47-2
+Removed Pin From Net: NetName=NetR48_1 Pin=R48-1
+Removed Pin From Net: NetName=NetD5A_1 Pin=R48-2
+Removed Pin From Net: NetName=NetR49_1 Pin=R49-1
+Removed Pin From Net: NetName=NetD5B_1 Pin=R49-2
+Removed Pin From Net: NetName=NetR50_1 Pin=R50-1
+Removed Pin From Net: NetName=NetD5B_1 Pin=R50-2
+Removed Pin From Net: NetName=NetR51_1 Pin=R51-1
+Removed Pin From Net: NetName=NetD5C_1 Pin=R51-2
+Removed Pin From Net: NetName=NetR52_1 Pin=R52-1
+Removed Pin From Net: NetName=NetD5C_1 Pin=R52-2
+Removed Pin From Net: NetName=SD_D0 Pin=R53-1
+Removed Pin From Net: NetName=3V3 Pin=R53-2
+Removed Pin From Net: NetName=SD_D1 Pin=R54-1
+Removed Pin From Net: NetName=3V3 Pin=R54-2
+Removed Pin From Net: NetName=SD_D2 Pin=R55-1
+Removed Pin From Net: NetName=3V3 Pin=R55-2
+Removed Pin From Net: NetName=SD_D3 Pin=R56-1
+Removed Pin From Net: NetName=3V3 Pin=R56-2
+Removed Pin From Net: NetName=SD_CMD Pin=R57-1
+Removed Pin From Net: NetName=3V3 Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=NetR58_2 Pin=R58-2
+Removed Pin From Net: NetName=NetR58_2 Pin=R59-1
+Removed Pin From Net: NetName=NetD4_1 Pin=R59-2
+Removed Pin From Net: NetName=NetR63A_2 Pin=R64A-1
+Removed Pin From Net: NetName=NetR62A_1 Pin=R64A-2
+Removed Pin From Net: NetName=NetR63B_2 Pin=R64B-1
+Removed Pin From Net: NetName=NetR62B_1 Pin=R64B-2
+Removed Pin From Net: NetName=NetR63C_2 Pin=R64C-1
+Removed Pin From Net: NetName=NetR62C_1 Pin=R64C-2
+Removed Pin From Net: NetName=NetD5A_1 Pin=R65A-1
+Removed Pin From Net: NetName=GND Pin=R65A-2
+Removed Pin From Net: NetName=NetD5B_1 Pin=R65B-1
+Removed Pin From Net: NetName=GND Pin=R65B-2
+Removed Pin From Net: NetName=NetD5C_1 Pin=R65C-1
+Removed Pin From Net: NetName=GND Pin=R65C-2
+Removed Pin From Net: NetName=GND Pin=R66A-1
+Removed Pin From Net: NetName=NetD5A_1 Pin=R66A-2
+Removed Pin From Net: NetName=GND Pin=R66B-1
+Removed Pin From Net: NetName=NetD5B_1 Pin=R66B-2
+Removed Pin From Net: NetName=GND Pin=R66C-1
+Removed Pin From Net: NetName=NetD5C_1 Pin=R66C-2
+Removed Pin From Net: NetName=12V Pin=R69A-1
+Removed Pin From Net: NetName=12V Pin=R69B-1
+Removed Pin From Net: NetName=12V Pin=R69C-1
+Removed Pin From Net: NetName=5V Pin=R70A-1
+Removed Pin From Net: NetName=5V Pin=R70B-1
+Removed Pin From Net: NetName=5V Pin=R70C-1
+Removed Pin From Net: NetName=3V3 Pin=R71A-1
+Removed Pin From Net: NetName=3V3 Pin=R71B-1
+Removed Pin From Net: NetName=3V3 Pin=R71C-1
+Change Component Footprint: Designator=R66A Old Footprint=FP-CR0603-IPC_B New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R66B Old Footprint=FP-CR0603-IPC_B New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R66C Old Footprint=FP-CR0603-IPC_B New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R65A Old Footprint=RESC2012X70N New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R65B Old Footprint=RESC2012X70N New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R65C Old Footprint=RESC2012X70N New Footprint=RESC2013X60X35LL10T20
+Change Component Footprint: Designator=R70A Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R70B Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R70C Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R48 Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R49 Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R50 Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R51 Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R52 Old Footprint=RESC2013X60X35LL10T20 New Footprint=RESC3216X70X40NL20T20
+Change Component Footprint: Designator=R53 Old Footprint=RESC3216X70X40NL20T20 New Footprint=FP-CRCW0805-e3-IPC_B
+Change Component Footprint: Designator=R54 Old Footprint=RESC3216X70X40NL20T20 New Footprint=RESC1608X55X25ML10T15
+Change Component Comment : Designator=R66A Old Comment=CR0603-JW-164ELF New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R66B Old Comment=CR0603-JW-164ELF New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R66C Old Comment=CR0603-JW-164ELF New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R65A Old Comment=ERJ-PB6B3002V New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R65B Old Comment=ERJ-PB6B3002V New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R65C Old Comment=ERJ-PB6B3002V New Comment=RC0805JR-100RL
+Change Component Comment : Designator=R70A Old Comment=RC0805JR-100RL New Comment=ERJ-PB6B3002V
+Change Component Comment : Designator=R70B Old Comment=RC0805JR-100RL New Comment=ERJ-PB6B3002V
+Change Component Comment : Designator=R70C Old Comment=RC0805JR-100RL New Comment=ERJ-PB6B3002V
+Change Component Comment : Designator=R48 Old Comment=RC0805JR-100RL New Comment=RK73H2BTTD4702F
+Change Component Comment : Designator=R49 Old Comment=RC0805JR-100RL New Comment=RK73H2BTTD4702F
+Change Component Comment : Designator=R50 Old Comment=RC0805JR-100RL New Comment=RK73H2BTTD4702F
+Change Component Comment : Designator=R51 Old Comment=RC0805JR-100RL New Comment=RK73H2BTTD4702F
+Change Component Comment : Designator=R52 Old Comment=RC0805JR-100RL New Comment=RK73H2BTTD4702F
+Change Component Comment : Designator=R53 Old Comment=RK73H2BTTD4702F New Comment=CRCW080520K0JNEB
+Change Component Comment : Designator=R54 Old Comment=RK73H2BTTD4702F New Comment=RC0603JR-0710KL
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R47
+Change Component Designator: OldDesignator=R43 NewDesignator=R48
+Change Component Designator: OldDesignator=R44 NewDesignator=R49
+Change Component Designator: OldDesignator=R45 NewDesignator=R50
+Change Component Designator: OldDesignator=R46 NewDesignator=R51
+Change Component Designator: OldDesignator=R47 NewDesignator=R52
+Change Component Designator: OldDesignator=R48 NewDesignator=R53
+Change Component Designator: OldDesignator=R49 NewDesignator=R54
+Change Component Designator: OldDesignator=R50 NewDesignator=R55
+Change Component Designator: OldDesignator=R51 NewDesignator=R56
+Change Component Designator: OldDesignator=R52 NewDesignator=R57
+Change Component Designator: OldDesignator=R53 NewDesignator=R58
+Change Component Designator: OldDesignator=R54 NewDesignator=R59
+Change Component Designator: OldDesignator=R64A NewDesignator=R69A
+Change Component Designator: OldDesignator=R64B NewDesignator=R69B
+Change Component Designator: OldDesignator=R64C NewDesignator=R69C
+Change Component Designator: OldDesignator=R65A NewDesignator=R70A
+Change Component Designator: OldDesignator=R65B NewDesignator=R70B
+Change Component Designator: OldDesignator=R65C NewDesignator=R70C
+Change Component Designator: OldDesignator=R66A NewDesignator=R71A
+Change Component Designator: OldDesignator=R66B NewDesignator=R71B
+Change Component Designator: OldDesignator=R66C NewDesignator=R71C
+Change Component Designator: OldDesignator=R70A NewDesignator=R65A
+Change Component Designator: OldDesignator=R70B NewDesignator=R65B
+Change Component Designator: OldDesignator=R70C NewDesignator=R65C
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP8
+Added Component: Designator=R42(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R64A(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R64B(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R64C(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating(s)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+ or -)"; Value = "NotRequired"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Added Component: Designator=R66A(FP-CR0603-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "160kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "457um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R66B(FP-CR0603-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "160kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "457um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R66C(FP-CR0603-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "160kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "457um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC39G_1 Pin=J3-1
+Added Pin To Net: NetName=SPI_MOSI Pin=J3-4
+Added Pin To Net: NetName=SPI_SCK Pin=J3-5
+Added Pin To Net: NetName=CAN_CONN_H Pin=J3-8
+Added Pin To Net: NetName=CAN_CONN_L Pin=J3-9
+Added Pin To Net: NetName=SENSOR3_IN Pin=J3-10
+Added Pin To Net: NetName=SENSOR1_IN Pin=J3-11
+Added Pin To Net: NetName=SENSOR2_IN Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=SPI_MISO Pin=J3-16
+Added Pin To Net: NetName=I2C_SCL Pin=J3-19
+Added Pin To Net: NetName=I2C_SDA Pin=J3-20
+Added Pin To Net: NetName=GND Pin=J3-21
+Added Pin To Net: NetName=GND Pin=J3-22
+Added Pin To Net: NetName=12V Pin=J3-24
+Added Pin To Net: NetName=GND Pin=J3-25
+Added Pin To Net: NetName=NetC39F_1 Pin=J3-28
+Added Pin To Net: NetName=NetC39E_1 Pin=J3-33
+Added Pin To Net: NetName=NetC39D_1 Pin=J3-35
+Added Pin To Net: NetName=SPI_MOSI Pin=R38-2
+Added Pin To Net: NetName=SPI_SCK Pin=R39-1
+Added Pin To Net: NetName=I2C_SCL Pin=R40-2
+Added Pin To Net: NetName=I2C_SDA Pin=R41-2
+Added Pin To Net: NetName=USART_RX Pin=R42-1
+Added Pin To Net: NetName=NetJ3_26 Pin=R42-2
+Added Pin To Net: NetName=USART_TX Pin=R43-1
+Added Pin To Net: NetName=SPI_MISO Pin=R44-1
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetD5A_1 Pin=R47-2
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetD5A_1 Pin=R48-2
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetD5B_1 Pin=R49-2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetD5B_1 Pin=R50-2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetD5C_1 Pin=R51-2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetD5C_1 Pin=R52-2
+Added Pin To Net: NetName=SD_D0 Pin=R53-1
+Added Pin To Net: NetName=3V3 Pin=R53-2
+Added Pin To Net: NetName=SD_D1 Pin=R54-1
+Added Pin To Net: NetName=3V3 Pin=R54-2
+Added Pin To Net: NetName=SD_D2 Pin=R55-1
+Added Pin To Net: NetName=3V3 Pin=R55-2
+Added Pin To Net: NetName=SD_D3 Pin=R56-1
+Added Pin To Net: NetName=3V3 Pin=R56-2
+Added Pin To Net: NetName=SD_CMD Pin=R57-1
+Added Pin To Net: NetName=3V3 Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=R59-1
+Added Pin To Net: NetName=NetD4_1 Pin=R59-2
+Added Pin To Net: NetName=NetR63A_2 Pin=R64A-1
+Added Pin To Net: NetName=NetR62A_1 Pin=R64A-2
+Added Pin To Net: NetName=NetR63B_2 Pin=R64B-1
+Added Pin To Net: NetName=NetR62B_1 Pin=R64B-2
+Added Pin To Net: NetName=NetR63C_2 Pin=R64C-1
+Added Pin To Net: NetName=NetR62C_1 Pin=R64C-2
+Added Pin To Net: NetName=NetD5A_1 Pin=R65A-1
+Added Pin To Net: NetName=GND Pin=R65A-2
+Added Pin To Net: NetName=NetD5B_1 Pin=R65B-1
+Added Pin To Net: NetName=GND Pin=R65B-2
+Added Pin To Net: NetName=NetD5C_1 Pin=R65C-1
+Added Pin To Net: NetName=GND Pin=R65C-2
+Added Pin To Net: NetName=GND Pin=R66A-1
+Added Pin To Net: NetName=NetD5A_1 Pin=R66A-2
+Added Pin To Net: NetName=GND Pin=R66B-1
+Added Pin To Net: NetName=NetD5B_1 Pin=R66B-2
+Added Pin To Net: NetName=GND Pin=R66C-1
+Added Pin To Net: NetName=NetD5C_1 Pin=R66C-2
+Added Pin To Net: NetName=12V Pin=R69A-1
+Added Pin To Net: NetName=12V Pin=R69B-1
+Added Pin To Net: NetName=12V Pin=R69C-1
+Added Pin To Net: NetName=5V Pin=R70A-1
+Added Pin To Net: NetName=5V Pin=R70B-1
+Added Pin To Net: NetName=5V Pin=R70C-1
+Added Pin To Net: NetName=3V3 Pin=R71A-1
+Added Pin To Net: NetName=3V3 Pin=R71B-1
+Added Pin To Net: NetName=3V3 Pin=R71C-1
+Change Net Name : Old Net Name=NetC39D_1 New Net Name=SENSOR2_PWR
+Change Net Name : Old Net Name=NetC39E_1 New Net Name=SENSOR3_PWR
+Change Net Name : Old Net Name=NetC39F_1 New Net Name=SPI1_PWR
+Change Net Name : Old Net Name=NetC39G_1 New Net Name=SPI2_PWR
+Added Pin To Net: NetName=I2C1_PWR Pin=C39A-1
+Added Pin To Net: NetName=I2C1_PWR Pin=C40A-1
+Added Pin To Net: NetName=I2C1_PWR Pin=J3-31
+Added Pin To Net: NetName=I2C1_PWR Pin=R69A-2
+Added Pin To Net: NetName=I2C1_PWR Pin=R70A-2
+Added Pin To Net: NetName=I2C1_PWR Pin=R71A-2
+Added Net: Name=I2C1_PWR
+Added Pin To Net: NetName=I2C2_PWR Pin=C39B-1
+Added Pin To Net: NetName=I2C2_PWR Pin=C40B-1
+Added Pin To Net: NetName=I2C2_PWR Pin=J3-30
+Added Pin To Net: NetName=I2C2_PWR Pin=R69B-2
+Added Pin To Net: NetName=I2C2_PWR Pin=R70B-2
+Added Pin To Net: NetName=I2C2_PWR Pin=R71B-2
+Added Net: Name=I2C2_PWR
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R38-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R39-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=R40-1
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Pin To Net: NetName=NetJ3_7 Pin=R41-1
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_14 Pin=J3-14
+Added Pin To Net: NetName=NetJ3_14 Pin=R44-2
+Added Net: Name=NetJ3_14
+Added Pin To Net: NetName=NetJ3_15 Pin=J3-15
+Added Pin To Net: NetName=NetJ3_15 Pin=R45-2
+Added Net: Name=NetJ3_15
+Added Pin To Net: NetName=NetJ3_17 Pin=J3-17
+Added Pin To Net: NetName=NetJ3_17 Pin=R46-1
+Added Net: Name=NetJ3_17
+Added Pin To Net: NetName=NetJ3_27 Pin=J3-27
+Added Pin To Net: NetName=NetJ3_27 Pin=R43-2
+Added Net: Name=NetJ3_27
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin=U3-93
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=SENSOR1_PWR Pin=C39C-1
+Added Pin To Net: NetName=SENSOR1_PWR Pin=C40C-1
+Added Pin To Net: NetName=SENSOR1_PWR Pin=J3-34
+Added Pin To Net: NetName=SENSOR1_PWR Pin=R69C-2
+Added Pin To Net: NetName=SENSOR1_PWR Pin=R70C-2
+Added Pin To Net: NetName=SENSOR1_PWR Pin=R71C-2
+Added Net: Name=SENSOR1_PWR
+Added Member To Class: ClassName=U_MainConnector Member=Component R39 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R41 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R42 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R43 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R44 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R45 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R46 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R47 RC0805JR-100RL
+Added Member To Class: ClassName=U_MicroSD Member=Component R55 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R56 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R57 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R58 CRCW080520K0JNEB
+Added Member To Class: ClassName=U_MicroSD Member=Component R59 RC0603JR-0710KL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R60A (R60) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R60B (R60) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R60C (R60) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R61A (R61) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R61B (R61) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R61C (R61) PTN0603E8002BST1
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R62A (R62) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R62B (R62) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R62C (R62) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R63A (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R63B (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R63C (R63) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R64A (R64) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R64B (R64) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R64C (R64) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R66A (R66) CR0603-JW-164ELF
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R66B (R66) CR0603-JW-164ELF
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R66C (R66) CR0603-JW-164ELF
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R67A (R67) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R67B (R67) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R67C (R67) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput1 Member=Component R68A (R68) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput2 Member=Component R68B (R68) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorInput3 Member=Component R68C (R68) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower1 Member=Component R69A (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R69B (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower1 Member=Component R69C (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R69D (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R69E (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R69F (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R69G (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R70D (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R70E (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R70F (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R70G (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower1 Member=Component R71A (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R71B (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower1 Member=Component R71C (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R71D (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R71E (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R71F (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R71G (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component TP6 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP10 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP11 5012

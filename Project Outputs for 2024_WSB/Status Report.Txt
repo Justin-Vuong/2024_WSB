@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [2024_WSB.PrjPcb]
+   Generated File[2024_WSB.GTO]
+   Generated File[2024_WSB.GTP]
+   Generated File[2024_WSB.GTS]
+   Generated File[2024_WSB.GTL]
+   Generated File[2024_WSB.GP1]
+   Generated File[2024_WSB.GP2]
+   Generated File[2024_WSB.GBL]
+   Generated File[2024_WSB.GBS]
+   Generated File[2024_WSB.GBP]
+   Generated File[2024_WSB.GBO]
+   Generated File[2024_WSB.GM]
+   Generated File[2024_WSB.EXTREP]
+   Generated File[2024_WSB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 1:43:35 AM On 3/15/2024

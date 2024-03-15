@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=SensorPower Member=U_I2CSensorPower11
+Removed Member From Class: ClassName=SensorPower Member=U_I2CSensorPower12
+Change Component Designator: OldDesignator=C39A NewDesignator=C39C
+Change Component Designator: OldDesignator=C39B NewDesignator=C39A
+Change Component Designator: OldDesignator=C39C NewDesignator=C39B
+Change Component Designator: OldDesignator=C40A NewDesignator=C40C
+Change Component Designator: OldDesignator=C40B NewDesignator=C40A
+Change Component Designator: OldDesignator=C40C NewDesignator=C40B
+Change Component Designator: OldDesignator=R69A NewDesignator=R69C
+Change Component Designator: OldDesignator=R69B NewDesignator=R69A
+Change Component Designator: OldDesignator=R69C NewDesignator=R69B
+Change Component Designator: OldDesignator=R70A NewDesignator=R70C
+Change Component Designator: OldDesignator=R70B NewDesignator=R70A
+Change Component Designator: OldDesignator=R70C NewDesignator=R70B
+Change Component Designator: OldDesignator=R71A NewDesignator=R71C
+Change Component Designator: OldDesignator=R71B NewDesignator=R71A
+Change Component Designator: OldDesignator=R71C NewDesignator=R71B
+Change Class Name : Old Net Name=U_I2CSensorPower11 New Net Name=U_SensorPower1
+Change Class Name : Old Net Name=U_I2CSensorPower12 New Net Name=U_I2CSensorPower1
+Added Member To Class: ClassName=U_MainConnector Member=Component TP6 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP8 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP9 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP10 5012
+Added Member To Class: ClassName=SensorPower Member=U_I2CSensorPower1 (SensorPower.SchDoc)
+Added Member To Class: ClassName=SensorPower Member=U_SensorPower1 (SensorPower.SchDoc)

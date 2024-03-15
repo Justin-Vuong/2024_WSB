@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=J3-4
+Removed Pin From Net: NetName=SPI_SCK Pin=J3-5
+Added Pin To Net: NetName=SPI_SCK Pin=J3-4
+Added Pin To Net: NetName=SPI_MOSI Pin=J3-5
+Added Member To Class: ClassName=U_MainConnector Member=Component R38 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R39 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R42 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R43 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R44 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R45 RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component R46 RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower1 Member=Component R69A (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R69B (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower1 Member=Component R69C (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R69D (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R69E (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R69F (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R69G (R69) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower1 Member=Component R70A (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R70B (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower1 Member=Component R70C (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R70D (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R70E (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R70F (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R70G (R70) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower1 Member=Component R71A (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_I2CSensorPower2 Member=Component R71B (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower1 Member=Component R71C (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower2 Member=Component R71D (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SensorPower3 Member=Component R71E (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower1 Member=Component R71F (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_SPISensorPower2 Member=Component R71G (R71) RC0805JR-100RL
+Added Member To Class: ClassName=U_MainConnector Member=Component TP5 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP10 5012
+Added Member To Class: ClassName=U_MainConnector Member=Component TP11 5012
