@@ -1,22 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [2024_WSB.PrjPcb]
-   Generated File[2024_WSB.GTO]
-   Generated File[2024_WSB.GTP]
-   Generated File[2024_WSB.GTS]
-   Generated File[2024_WSB.GTL]
-   Generated File[2024_WSB.GP1]
-   Generated File[2024_WSB.GP2]
-   Generated File[2024_WSB.GBL]
-   Generated File[2024_WSB.GBS]
-   Generated File[2024_WSB.GBP]
-   Generated File[2024_WSB.GBO]
-   Generated File[2024_WSB.GM]
-   Generated File[2024_WSB.EXTREP]
-   Generated File[2024_WSB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [2024_WSB.PrjPcb]
+   Generated File[2024_WSB.TXT]
+   Generated File[2024_WSB.LDP]
+   Generated File[2024_WSB.DRR]
 
 
-Files Generated   : 13
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 1:43:35 AM On 3/15/2024
+Finished Output Generation At 3:17:26 AM On 3/15/2024
